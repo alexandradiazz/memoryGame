@@ -1,0 +1,29 @@
+#game div {
+  border: 1px solid white;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  border-radius: 4px;
+  box-shadow: 2px 2px #5f9b7c;
+  display: inline-block;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+body{
+  background-image:url("https://cdn.earlytorise.com/wp-content/uploads/2004/02/human-brain.jpg");
+  background-size: cover;
+}
+
+.start {
+  border-radius: 4px;
+  border-color: white;
+  box-shadow: 2px 2px #5f9b7c;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
